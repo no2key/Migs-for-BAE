@@ -58,7 +58,6 @@
 			?>
 			<div class="clear"></div>
 		</div>
-	
 		<div class="x-shadow l-shadow"></div>
 		<div class="x-shadow r-shadow"></div>
 	</div><!-- #content -->
